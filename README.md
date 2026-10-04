@@ -11,7 +11,7 @@
 
 <br/>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=sjhonn&color=00f7ff&style=flat-square&label=Visitas+al+perfil)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=salasjimenez&color=00f7ff&style=flat-square&label=Visitas+al+perfil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonn-pether-sj)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/jhonn-pether-sj)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jpsalasjimenez@gmail.com)
