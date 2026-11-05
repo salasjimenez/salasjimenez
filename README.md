@@ -8,12 +8,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/salasjimenez?style=for-the-badge&label=SEGUIDORES&color=00f7ff&labelColor=0d1117" alt="Seguidores" />
-<img src="https://img.shields.io/github/last-commit/salasjimenez/salasjimenez?style=for-the-badge&label=%C3%9ALTIMA+ACTUALIZACI%C3%93N&color=0891B2&labelColor=0d1117" alt="Última actualización" />
-<img src="https://komarev.com/ghpvc/?username=salasjimenez&color=0891B2&style=for-the-badge&label=VISITAS" alt="Visitas al perfil" />
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonn-pether-sj)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jhonn-pether-sj)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsalasjimenez@gmail.com)
