@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0891B2,100:00F7FF&height=200&section=header&text=Salas%20Jimenez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Dise%C3%B1o%20%E2%86%92%20C%C3%B3digo%20%E2%86%92%20Cloud%20%E2%86%92%20Producci%C3%B3n&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0891B2,100:00F7FF&height=200&section=header&text=Salas%20Jimenez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Backend%20%C2%B7%20QA%20%C2%B7%20Cloud%20%C2%B7%20DevOps&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=780&lines=Desarrollador+Operativo+y+Dise%C3%B1ador;Arquitecturas+escalables+en+Azure+y+Google+Cloud;Infraestructura+como+c%C3%B3digo+con+Terraform;De+la+idea+al+producto%2C+de+Figma+a+producci%C3%B3n" alt="Presentación animada" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+Operativo+y+Dise%C3%B1ador;Frontend+y+Backend+de+punta+a+punta;QA%2C+documentaci%C3%B3n+y+soporte+N1%2FN2;Arquitecturas+escalables+en+Azure+y+Google+Cloud;De+la+idea+al+producto%2C+de+Figma+a+producci%C3%B3n" alt="Presentación animada" />
 </a>
 
 <br/><br/>
@@ -25,6 +25,9 @@ salas-jimenez
 
 $ cat perfil.txt
 rol          Desarrollador Operativo y Diseñador
+desarrollo   Frontend · Backend · QA
+operaciones  Documentación · Soporte N1/N2
+infra        Cloud · DevOps
 cloud        Microsoft Azure · Google Cloud
 devops       Kubernetes · Terraform
 full-stack   Angular · React Native · OpenAI API · Telegram
@@ -46,32 +49,52 @@ $ status --disponibilidad
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="220">
-      <h3>01</h3>
-      <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Figma" /><br/><br/>
-      <b>DISEÑAR</b><br/>
-      <sub>UX/UI en Figma<br/>Prototipos centrados en el usuario</sub>
+    <td align="center" valign="top" width="250">
+      <h3>🎨 FRONTEND</h3>
+      <img src="https://skillicons.dev/icons?i=angular,react,ts,js,figma&perline=5" alt="Frontend" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=Interfaces+claras+y+r%C3%A1pidas;Angular+%C2%B7+React+Native;Dise%C3%B1o+UX%2FUI+en+Figma" alt="Frontend" /><br/>
+      <sub>Experiencias web y móviles<br/>centradas en el usuario</sub>
     </td>
-    <td align="center" valign="middle"><h2>→</h2></td>
-    <td align="center" valign="top" width="220">
-      <h3>02</h3>
-      <img src="https://skillicons.dev/icons?i=angular,react&perline=2" alt="Angular y React" /><br/><br/>
-      <b>CONSTRUIR</b><br/>
-      <sub>Angular · React Native<br/>APIs e integraciones con IA</sub>
+    <td align="center" valign="top" width="250">
+      <h3>🧠 BACKEND</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,ts&perline=3" alt="Backend" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=APIs+y+servicios+robustos;Integraci%C3%B3n+con+OpenAI;Bots+y+automatizaci%C3%B3n+con+Telegram" alt="Backend" /><br/>
+      <sub>Lógica de negocio, APIs<br/>e integraciones con IA</sub>
     </td>
-    <td align="center" valign="middle"><h2>→</h2></td>
-    <td align="center" valign="top" width="220">
-      <h3>03</h3>
-      <img src="https://skillicons.dev/icons?i=azure,gcp,terraform&perline=3" alt="Azure, Google Cloud y Terraform" /><br/><br/>
-      <b>DESPLEGAR</b><br/>
-      <sub>Azure · Google Cloud<br/>Infraestructura como código</sub>
+    <td align="center" valign="top" width="250">
+      <h3>🧪 QA</h3>
+      <img src="https://skillicons.dev/icons?i=postman,bash&perline=2" alt="QA" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=Pruebas+funcionales+y+de+API;Casos+de+prueba+claros;Calidad+antes+del+despliegue" alt="QA" /><br/>
+      <sub>Validación de funcionalidades<br/>y control de calidad</sub>
     </td>
-    <td align="center" valign="middle"><h2>→</h2></td>
-    <td align="center" valign="top" width="220">
-      <h3>04</h3>
-      <img src="https://skillicons.dev/icons?i=kubernetes,docker&perline=2" alt="Kubernetes y Docker" /><br/><br/>
-      <b>OPERAR</b><br/>
-      <sub>Kubernetes<br/>Automatización de despliegues</sub>
+    <td align="center" valign="top" width="250">
+      <h3>📚 DOCUMENTACIÓN</h3>
+      <img src="https://skillicons.dev/icons?i=md,github,vscode&perline=3" alt="Documentación" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=Gu%C3%ADas+y+manuales+claros;Procedimientos+reproducibles;Conocimiento+para+el+equipo" alt="Documentación" /><br/>
+      <sub>Procesos y soluciones<br/>explicados paso a paso</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="250">
+      <h3>🛟 SOPORTE N1/N2</h3>
+      <img src="https://skillicons.dev/icons?i=linux,bash&perline=2" alt="Soporte" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=Atenci%C3%B3n+de+incidencias;Diagn%C3%B3stico+y+escalamiento;Soluci%C3%B3n+en+primera+l%C3%ADnea" alt="Soporte" /><br/>
+      <sub>Atención, diagnóstico<br/>y resolución de incidencias</sub>
+    </td>
+    <td align="center" valign="top" width="250">
+      <h3>☁️ CLOUD</h3>
+      <img src="https://skillicons.dev/icons?i=azure,gcp&perline=2" alt="Cloud" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=Microsoft+Azure;Google+Cloud;Arquitecturas+escalables" alt="Cloud" /><br/>
+      <sub>Diseño y despliegue de<br/>soluciones en la nube</sub>
+    </td>
+    <td align="center" valign="top" width="250">
+      <h3>⚙️ DEVOPS</h3>
+      <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,git&perline=4" alt="DevOps" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=230&height=40&lines=Kubernetes+y+contenedores;Infraestructura+como+c%C3%B3digo;Despliegues+automatizados" alt="DevOps" /><br/>
+      <sub>Automatización, infraestructura<br/>y entrega continua</sub>
     </td>
   </tr>
 </table>
@@ -79,35 +102,6 @@ $ status --disponibilidad
 </div>
 
 <br/>
-
-## 🛠️ Stack tecnológico
-
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="380">
-      <sub><b>☁️ &nbsp;CLOUD E INFRAESTRUCTURA</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=azure,gcp,terraform,linux&perline=4" alt="Cloud e infraestructura" />
-    </td>
-    <td align="center" valign="top" width="380">
-      <sub><b>⚙️ &nbsp;DEVOPS Y CONTENEDORES</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,github&perline=4" alt="DevOps y contenedores" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="380">
-      <sub><b>💻 &nbsp;DESARROLLO</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,angular,react,nodejs&perline=4" alt="Desarrollo" />
-    </td>
-    <td align="center" valign="top" width="380">
-      <sub><b>🎨 &nbsp;DISEÑO Y HERRAMIENTAS</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=figma,postman,vscode,bash&perline=4" alt="Diseño y herramientas" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 📡 Actividad en tiempo real
 
@@ -137,7 +131,8 @@ $ status --disponibilidad
 ## 🤝 Conectemos
 
 <div align="center">
-¿Tienes un proyecto de nube, automatización o desarrollo en mente?<br/>
+
+¿Tienes un proyecto de desarrollo, nube o automatización en mente?<br/>
 Escríbeme: estoy abierto a colaborar y a nuevos retos profesionales.
 
 <br/><br/>
